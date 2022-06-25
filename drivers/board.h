@@ -13,6 +13,7 @@
 
 #include <stm32h7xx.h>
 #include <drv_common.h>
+#include "rtdevice.h"
 
 #ifdef __cplusplus
 extern "C"
